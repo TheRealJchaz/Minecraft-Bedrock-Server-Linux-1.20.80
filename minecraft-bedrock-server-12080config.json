@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Minecraft Bedrock Server linux",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
